@@ -38,6 +38,10 @@ You can click the Preview link to take a look at your changes.
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg"
     width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"
+    width="60px"
   />
   <br />
   <br />
